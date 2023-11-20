@@ -1,0 +1,2 @@
+
+No desenvolvimento do projeto de controle de estoque, elaborei uma aplicação simples utilizando HTML, CSS, JavaScript, Bootstrap e PHP. A proposta do sistema é permitir a importação de dados de um arquivo Excel no formato XLS, possibilitando a visualização dos valores e informações referentes às mercadorias disponíveis. Com essa implementação, é possível efetuar uma gestão eficaz do estoque, facilitando o acompanhamento e a análise dos produtos disponíveis na base de dados.
